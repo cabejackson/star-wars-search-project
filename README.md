@@ -1,5 +1,5 @@
 # star-wars-search-project
-Here's a cool project that uses the Thinkful's Star Wars API.
+Here's a cool project that uses Thinkful's Star Wars API.
 ### Check it out --> oops still working on it, but link coming soon!
 ## About Me
 

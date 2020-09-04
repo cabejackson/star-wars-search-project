@@ -1,0 +1,63 @@
+/*------- general stylings --------*/
+* {
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  
+}
+
+/* header {
+} */
+
+main {
+  margin: 0 auto;
+}
+
+body {
+  margin: 0 auto;
+  padding: 0 10px;
+  width: 100%;
+  background-image: url("./images/galaxy.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* ------ Text Stylings ----- */
+h1 {
+  font-size: 3.5rem;
+  font-variant: small-caps;
+  text-align: center;
+  text-decoration: underline;
+  margin: 0 auto;
+  color: white;
+}
+h3{
+  color: white;
+  font-variant: small-caps;
+  text-align: center;
+}
+form {
+  font-variant: small-caps;
+  text-align: center;
+  color: white;
+}
+#btn {
+  padding: 0px 12px;
+  border-radius: 25px;
+  border: solid whitesmoke;
+  background-color: #0C6291;
+  color: whitesmoke;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  font-size: 18px;
+  margin: auto;
+}
+
+#btn:hover {
+  background-color: #81B8D9
+}

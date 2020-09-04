@@ -1,6 +1,8 @@
 import React from "react";
 import PropTypes from 'prop-types';
 
+//maybe prop types will look like this:
+//was giving me errors
 // SearchFilter.prototype = {
 //     input: PropTypes.string,
 // }

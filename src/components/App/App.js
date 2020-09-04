@@ -2,18 +2,6 @@ import React from 'react';
 import Header from '../Header/Header';
 import Search from '../Search/Search';
 
-
-//the filter strings could be used if you do the bonus stuff
-// state = {
-//   printFilter: '',
-//   bookFilter: '',
-//   books: [],
-// }
-
-// this goes in render return 
-// <NameList names={this.state.names} />
-// const apiKey = `:keyes&key=AIzaSyDJLlWlrwB4UEP-nM2SP0lv3WF7Izh9Gkw`
-
 const baseURL = "https://swapi-thinkful.herokuapp.com/api/people/?search="
 
 class App extends React.Component {
